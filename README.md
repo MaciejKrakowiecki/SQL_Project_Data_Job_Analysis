@@ -1,11 +1,11 @@
 # Introduction
-    📊 Dive into the data job market! Focusing on data analyst roles, this project explores 💰 top-paying jobs, 🔥 in-demand skills, and 📈 where high demand meets high salary in data analytics.
+        Dive into the data job market! Focusing on data analyst roles, this project explores  top-paying jobs,  in-demand skills, and  where high demand meets high salary in data analytics.
 
 🔍 SQL queries? Check them out here: [project_sql1 folder](/project_sql1/).
 # Background
 The motivation behind this project stemmed from my desire to understand the data analyst job market better. I aimed to discover which skills are paid the most and in demand, making my job search more targeted and effective. 
 
-The data for this analysis is from Luke Barousse’s SQL Course (include link to the course). This data includes details on job titles, salaries, locations, and required skills. 
+The data for this analysis is from Luke Barousse’s [SQL Course](https://www.lukebarousse.com/sql). This data includes details on job titles, salaries, locations, and required skills. 
 
 The questions I wanted to answer through my SQL queries were:
 
@@ -128,7 +128,7 @@ Here's the breakdown of the most demanded skills for data analysts in 2023
 | Tableau   | 3745         |
 | Power BI  | 2609         |
 
-Table of the demand for the top 5 skills in data analyst job postings
+*Table of the demand for the top 5 skills in data analyst job postings*
 
 ### 4. Skills Based on Salary
 Exploring the average salaries associated with different skills revealed which skills are the highest paying.
@@ -168,7 +168,8 @@ Here's a breakdown of the results for top paying skills for Data Analysts:
 | jupyter      | 152,777           |
 | pandas       | 151,821           |
 | elasticsearch| 145,000           |
-Table of the average salary for the top 10 paying skills for data analysts
+
+*Table of the average salary for the top 10 paying skills for data analysts*
 
 ### 5. Most Optimal Skills to Learn
 Combining insights from demand and salary data, this query aimed to pinpoint skills that are both in high demand and have high salaries, offering a strategic focus for skill development.
@@ -206,6 +207,7 @@ LIMIT 25;
 | 4        | java       | 17           | 106,906           |
 | 194      | ssis       | 12           | 106,683           |
 | 233      | jira       | 20           | 104,918           |
+
 *Table of the most optimal skills for data analyst sorted by salary*
 
 Here's a breakdown of the most optimal skills for Data Analysts in 2023:
